@@ -12,6 +12,9 @@
 
 
 // 3
+//let arr=[1,2,3,4,5,6,7,8,9,10];
+//let evennumber=arr.filter(num=> num %2===0);
+//console.log(evennumber);
 
 
 // 4
@@ -76,13 +79,11 @@
 //console.log(z)
 
 // 11
-//function addd(){
-// let x=0 
-//for(){
+//function summation(x,y) {
+  //  console.log(x+y);
+    //return(x+y)
 //}
-//return s
-//}
-//console.log(addd(1,2,3,4,5))
+//console.log(summation(3,7));
 
 // 12
 
